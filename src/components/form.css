@@ -1,0 +1,7 @@
+.size{
+	height:5rem;
+	width:60rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
